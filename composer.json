@@ -1,12 +1,12 @@
 {
-    "name": "matthillman/swgoh-help",
+    "name": "bartgymnast/swgoh-help",
     "description": "Laravel wrapper around an API to swogh.help.",
     "keywords": ["swogh", "swgoh.help", "laravel"],
     "license": "MIT",
     "authors": [
         {
-            "name": "Matthew Hillman",
-            "email": "mhillman@gmail.com"
+            "name": "Bart van der Hall",
+            "email": "bartgymnast@gmail.com"
         }
     ],
     "require": {
